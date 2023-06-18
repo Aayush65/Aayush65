@@ -1,8 +1,13 @@
+<h2 align="left">Hi 👋! I am Aayush aka Mantis65</h2>
 # 💫 About Me:
-Hi! I am Aayush (aka Mantis65).<br>I am a Software Engineer based in India. <br>I have done my Engineering in Computer Science from Vellore Institute of Technology.<br>I am a Passionate Competitive Programmer and a great LeetCode enthusiast, having solved over 1000 questions on LeetCode with a Contest Rating over 2000.<br>Moreover, I also have experience working with MERN stack and both SQL and NoSQL databases..<br>My favourite stack to work on is Vite/React + Typescript + Tailwindcss + NodeJs.<br>I also have worked with languages such as Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript and SQL.<br>I like reading Novels and am a 1400 ELo Chess Player.
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<ul>
+  <li>I am a Software Engineer based in India. </li>  
+  <li>I have done my Engineering in Computer Science from Vellore Institute of Technology. </li>  
+  <li>I am a Passionate Competitive Programmer and a great LeetCode enthusiast, having solved over 1000 questions on LeetCode with a Contest Rating over 2000. </li>  
+  <li>Moreover, I also have experience working with MERN stack and both SQL and NoSQL databases..<br>My favourite stack to work on is Vite/React + Typescript + Tailwindcss + NodeJs </li>  
+  <li>I also have worked with languages such as Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript and SQL. </li>  
+  <li>I like reading Novels and am a 1400 ELo Chess Player. </li>  
+</ul>
 
 ###
 
@@ -56,11 +61,5 @@ Hi! I am Aayush (aka Mantis65).<br>I am a Software Engineer based in India. <br>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aayush65/aayush65/output/snake.svg" alt="Snake animation" />
 
 ###
