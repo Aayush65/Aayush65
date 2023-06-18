@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Aayush, your friendly neighborhood coder 🕸</h2>
+<h2 align="left">Hi! I am Aayush, your friendly neighborhood coder 🕸</h2>
 # 💫 About Me:
 <ul>
   <li>I am a Software Engineer based in India. </li>  
