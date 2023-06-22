@@ -1,4 +1,9 @@
 <h2 align="left">Hi! I am Aayush, your friendly neighborhood coder 🕸</h2>
+
+###
+
+<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQG8NfqfGIMeAQ/profile-displayphoto-shrink_800_800/0/1686565969871?e=1692835200&v=beta&t=gV_NDq4lSy7l0ytHEkL1FlsYo7QMRdeUMENizKv0Q2o"  />
+
 # 💫 About Me:
 <ul>
   <li>I am a Software Engineer based in India. </li>  
@@ -6,7 +11,8 @@
   <li>I am a Passionate Competitive Programmer and a great LeetCode enthusiast, having solved over 1000 questions on LeetCode with a Contest Rating over 2000. </li>  
   <li>Moreover, I also have experience working with MERN stack and both SQL and NoSQL databases..<br>My favourite stack to work on is Vite/React + Typescript + Tailwindcss + NodeJs </li>  
   <li>I also have worked with languages such as Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript and SQL. </li>  
-  <li>I like reading Novels and am a 1400 ELo Chess Player. </li>  
+  <li>I like reading Novels and am a 1400 ELo Chess Player. </li> 
+  <li>You can visit me on my <a href="https://aayush65.com/">portfolio website</a>. </li> 
 </ul>
 
 ###
@@ -17,12 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQG8NfqfGIMeAQ/profile-displayphoto-shrink_800_800/0/1686565969871?e=1692835200&v=beta&t=gV_NDq4lSy7l0ytHEkL1FlsYo7QMRdeUMENizKv0Q2o"  />
 
 ###
-
+#
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
