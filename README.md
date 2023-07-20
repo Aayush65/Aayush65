@@ -2,9 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQG8NfqfGIMeAQ/profile-displayphoto-shrink_800_800/0/1686565969871?e=1692835200&v=beta&t=gV_NDq4lSy7l0ytHEkL1FlsYo7QMRdeUMENizKv0Q2o"  />
+<img align="right" height="150" src="https://github.com/Aayush65/Aayush65/assets/79572409/f2b5bc3b-a556-4308-9c62-b5be3dd991e9"  />
 
 # 💫 About Me:
+
 <ul>
   <li>I am a Software Engineer based in India. </li>  
   <li>I have done my Engineering in Computer Science from Vellore Institute of Technology. </li>  
@@ -12,7 +13,7 @@
   <li>Moreover, I also have experience working with MERN stack and both SQL and NoSQL databases..<br>My favourite stack to work on is Vite/React + Typescript + Tailwindcss + NodeJs </li>  
   <li>I also have worked with languages such as Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript and SQL. </li>  
   <li>I like reading Novels and am a 1400 ELo Chess Player. </li> 
-  <li>You can visit me on my <a href="https://aayush65.com/">portfolio website</a>. </li> 
+  <li>You can visit me on my portfolio website<a href="https://aayush65.com/">(aayush65.com)</a>. </li> 
 </ul>
 
 ###
